@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     # Load data from file
     context, events, labels, mapping = preprocessor.text(
-        path    = 'data/hdfs/hdfs_test_normal',
+        path    = '/kaggle/working/DeepCase-Copy/DeepCase-Copy/DeepCase-Copy/example/data/hdfs/hdfs_test_normal',
         verbose = True,
     )
 
