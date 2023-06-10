@@ -5,7 +5,7 @@ import torch
 
 # DeepCASE Imports
 import sys
-sys.path.append(r'/kaggle/working/DeepCase-Copy/DeepCase-Copy/')
+sys.path.append(r'/kaggle/working/DeepCase-Copy/DeepCase-Copy/DeepCase-Copy/')
 from deepcase.preprocessing   import Preprocessor
 from deepcase.context_builder import ContextBuilder
 
